@@ -25,7 +25,7 @@ pip install ollama wikipedia beautifulsoup4
 ### Usage
 
 ```bash
-python advanced_wiki_ollama.py --model gemma3:12b
+python wiki_smarter_0.2.py --model gemma3:12b --plain-text
 ```
 
 ### Command Line Options
