@@ -14,15 +14,10 @@ This tool combines the power of Ollama language models with Wikipedia to provide
 
 - Python 3.6+
 - Ollama installed and running
-- Internet connection for Wikipedia access
 
 ### Installation
 
 ```bash
-# Clone the repository
-git clone https://github.com/yourusername/wiki-ollama.git
-cd wiki-ollama
-
 # Install dependencies
 pip install ollama wikipedia beautifulsoup4
 ```
